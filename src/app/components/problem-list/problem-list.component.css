@@ -1,0 +1,40 @@
+.list-group-item {
+    padding: 10px 10px;
+    height: 44px;
+    padding-left: 20px;
+    padding-right: 24px;
+    margin-bottom: 5px;
+}
+.difficulty {
+    padding: 2px;
+    display: inline-block;
+    width: 78px;
+    height: 22px;
+    line-height: 20px;
+    margin-right: 15px;
+    font-size : 12px;
+    text-align: center;
+    font-family: Arial;
+}
+.difficultyText {
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    font-weight: lighter;
+}
+.title {
+    font-size : 1.2em;
+    font-family: Arial;
+}
+.diff-easy {
+    background-color:rgb(93, 207, 243);
+}
+.diff-medium {
+    background-color: rgb(146, 207, 92);
+}
+.diff-hard {
+    background-color:rgb(251, 107, 91);
+}
+.diff-super {
+    background-color: rgb(250, 76, 56);
+}
